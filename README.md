@@ -7,7 +7,7 @@
 💬 Conhecimentos básicos em HTML / CSS / JavaScript
 </li>
 <li>
-😄 Para mais informações acesse: https://www.linkedin.com/in/kelvin-morais-327a5827a/
+😄 Para mais informações acesse: (https://www.linkedin.com/in/kelvin-morais-327a5827a/)
 </li>
 
 
