@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou Kelvin Morais 👋
 
-<!--
-**Moraiiz/Moraiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li>
+🌱 Atualmente estudando TypeScript / Angular
+</li>
+<li>
+💬 Conhecimentos básicos em HTML / CSS / JavaScript
+</li>
+<li>
+😄 Para mais informações acesse: https://www.linkedin.com/in/kelvin-morais-327a5827a/
+</li>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
